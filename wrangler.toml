@@ -1,4 +1,4 @@
-name = 'cloudflare-worker-shortlinks-example'
+name = 'cloudflare-worker-shortlinks'
 type = 'javascript'
 
 account_id = 'YOUR_ACCOUNT_ID' # Your Account ID
