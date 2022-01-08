@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"name": "cloudflare-worker-shortlinks-example",
+	"version": "1.0.0",
+	"description": "Example repo of how to easily make shortlinks powered by Cloudflare edge workers",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Walker Gray <walkergraydev@outlook.com>",
+	"license": "MIT"
+}

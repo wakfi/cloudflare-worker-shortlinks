@@ -1,0 +1,11 @@
+name = 'cloudflare-worker-shortlinks-example'
+type = 'javascript'
+
+account_id = 'YOUR_ACCOUNT_ID' # Your Account ID
+route = '' # Base domain for your shotlinks, e.g. links.example.com/*
+zone_id = '' # Your zone ID in Cloudflare for your domain
+usage_model = ''
+
+compatibility_flags = []
+compatibility_date = '2022-01-08'
+workers_dev = true

@@ -1,0 +1,11 @@
+# Some good blanket things, like OS & IDE artifacts
+.vscode
+.DS_Store
+
+# Good to include on Node projects, even if there aren't any yet
+node_modules/
+
+# Wrangler artifacts and sensitive files
+.cargo-ok
+# You will probably want to have this file ignored
+# wrangler.toml
