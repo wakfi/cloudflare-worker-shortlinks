@@ -1,5 +1,5 @@
 name = 'cloudflare-worker-shortlinks'
-type = 'javascript'
+type = 'webpack'
 
 account_id = 'YOUR_ACCOUNT_ID' # Your Account ID
 route = '' # Base domain for your shotlinks, e.g. links.example.com/*

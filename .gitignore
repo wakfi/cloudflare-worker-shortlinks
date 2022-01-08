@@ -7,5 +7,7 @@ node_modules/
 
 # Wrangler artifacts and sensitive files
 .cargo-ok
+dist/
+worker/
 # You will probably want to have this file ignored
 # wrangler.toml
