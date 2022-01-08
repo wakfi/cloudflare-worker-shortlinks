@@ -1,6 +1,6 @@
 {
 	"private": true,
-	"name": "cloudflare-worker-shortlinks-example",
+	"name": "cloudflare-worker-shortlinks",
 	"version": "1.0.0",
 	"description": "Example repo of how to easily make shortlinks powered by Cloudflare edge workers",
 	"main": "index.js",
