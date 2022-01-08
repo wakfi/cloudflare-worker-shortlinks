@@ -4,9 +4,10 @@ This template demonstrates using JavaScript with Cloudflare Workers to implement
 shortlinking system, fully under your own control.
 
 [`index.js`](https://github.com/wakfi/cloudflare-worker-shortlinks/blob/main/index.js)
-is the content of the Workers script.
+is the content of the Workers script.  
 [`links.js`](https://github.com/wakfi/cloudflare-worker-shortlinks/blob/main/links.js)
 defines the shortlink pathnames and corresponding URLs, and exports them as an object.
+
 
 #### Wrangler
 
