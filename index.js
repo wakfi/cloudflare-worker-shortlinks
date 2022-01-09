@@ -33,8 +33,6 @@ const home =
 </body>
 </html>`;
 
-const domain = `shortlinks.wakfi.workers.dev`;
-
 // Declare our handler that will generate the Response to incoming fetch requests
 addEventListener('fetch', event => {
 	event.respondWith(handleRequest(event));
